@@ -1,6 +1,6 @@
-# jekyll-theme-vng-realisatie
+# jekyll-theme-soh
 
-Dit theme wordt gebruikt voor het deployen van de documentatie in VNG Realisatie repositories naar GitHub Pages.
+Dit theme wordt gebruikt voor het deployen van de documentatie voor Samen Onder Handbereik repositories naar GitHub Pages. In de rest van deze pagina zijn de verwijzingen naar VNG Realisatie niet gewijzigd. 
 
 ## Generatie logica
 
