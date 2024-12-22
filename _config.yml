@@ -1,7 +1,7 @@
-title: Jekyll VNG Realisatie theme
+title: Jekyll theme Samen Onder Handbereik
 
 description: >-
-   Jekyll version for VNG Realisatie
+   Jekyll theme Samen Onder Handbereik
 
 plugins:
   - jekyll-algolia
@@ -35,4 +35,4 @@ sass:
   load_paths:
     - _sass
 
-github: VNG-Realisatie/jekyll-theme-vng-realisatie
+github: Ewout124/jekyll-theme-soh
